@@ -35,5 +35,5 @@
 
 ### 💜좋아하는 캐릭터
 
-![이미지](https://cdn.psychiatricnews.net/news/photo/201805/9232_7864_4018.jpg)
+![시어도어 템플턴](https://mblogthumb-phinf.pstatic.net/MjAxNzA2MDRfOTAg/MDAxNDk2NTg0OTExNjM0.hlmbk0OjAHOevupcycsB_SyOvHMZcLMyMp0kExqi7IQg.QSdyz_LbVOy_YDK6z2JmwUwcv1sUXNXZlV3Kel3R15Yg.JPEG.1000717/2017-05-06_12%3B04%3B53.jpg?type=w800)
 - 보스베이비 - 시어도어 템플턴
