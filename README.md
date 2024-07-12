@@ -13,7 +13,7 @@
 ### 💚목표
 - 개발 잘하는 개발자가 되자!
 
-### 💙사용언어
+### 💙스택
 
 
 
@@ -30,9 +30,12 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-
-
-
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
+![LG](https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
 ### 💜좋아하는 캐릭터
 
 ![시어도어 템플턴](https://mblogthumb-phinf.pstatic.net/MjAxNzA2MDRfOTAg/MDAxNDk2NTg0OTExNjM0.hlmbk0OjAHOevupcycsB_SyOvHMZcLMyMp0kExqi7IQg.QSdyz_LbVOy_YDK6z2JmwUwcv1sUXNXZlV3Kel3R15Yg.JPEG.1000717/2017-05-06_12%3B04%3B53.jpg?type=w800)
