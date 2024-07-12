@@ -1,19 +1,19 @@
-# 권상웅
-### 💗자기소개
+# 권상웅 <a href="mailto:kw3082@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kw3082@naver.com"/></a>  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
+### 🔴 자기소개
 - 구미 싸피2반
 - 비전공자
 - ISTP
 - 잠을 자고 싶어요
-### 🧡도약
+### 🟠도약
 - 25살에 개발자를 시작했습니다.
 
-### 💛교육
+### 🟡교육
 - 웹킷640
 - SSAFY
-### 💚목표
+### 🟢목표
 - 개발 잘하는 개발자가 되자!
 
-### 💙스택
+### 🔵스택
 
 
 
@@ -37,7 +37,6 @@
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ![LG](https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
-### 💜좋아하는 캐릭터
-
+### 🟣좋아하는 캐릭터
 ![시어도어 템플턴](https://mblogthumb-phinf.pstatic.net/MjAxNzA2MDRfOTAg/MDAxNDk2NTg0OTExNjM0.hlmbk0OjAHOevupcycsB_SyOvHMZcLMyMp0kExqi7IQg.QSdyz_LbVOy_YDK6z2JmwUwcv1sUXNXZlV3Kel3R15Yg.JPEG.1000717/2017-05-06_12%3B04%3B53.jpg?type=w800)
-- 보스베이비 - 시어도어 템플턴
+<center>보스베이비 - 시어도어 템플턴</center>
